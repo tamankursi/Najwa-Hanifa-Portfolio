@@ -13,6 +13,10 @@ p {
     font-size: var(--font-paragraf);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 /* ===== NAVBAR ===== */
 .navbar {
